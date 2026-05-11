@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">HW04_Gymlog_V3.0.0</string>
+    <string name="welcome_to_the_gymlog_please_sign_in">Welcome to the GymLog.\nPlease Sign In</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="login_welcome">login_welcome</string>
+    <string name="enter_reps">enter_reps</string>
+    <string name="log">log</string>
+    <string name="reps">reps</string>
+    <string name="enter_a_weight">enter_a_weight</string>
+    <string name="weight">weight</string>
+    <string name="enter_an_exercise">enter_an_exercise</string>
+    <string name="exercise">exercise</string>
+    <string name="preference_userid_key">daclinkPreferenceUserIDGymLog\n</string>
+    <string name="preference_file_key">daclinkPreferenceFileKeyGymLog\n</string>
 </resources>
